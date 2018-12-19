@@ -1,0 +1,35 @@
+/* h1 {
+  color: blue;
+}
+
+#judul {
+  color: orange;
+}
+
+h2.belajar {
+  color: green;
+}
+
+h3, h4, h5 {
+  color: red;
+} */
+
+.warnaKelas {
+  color: red;
+}
+
+h2 {
+  color: #800080;
+}
+
+#idwarna {
+  background-color: orange;
+}
+
+body {
+  /* background-image: url("https://cdn.pixabay.com/photo/2018/01/31/12/16/architecture-3121009_960_720.jpg");
+  background-repeat: no-repeat;
+  background-position: center top; */
+
+  background: orange url("../img/rajaampat.jpg") no-repeat center top;
+}
